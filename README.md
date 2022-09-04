@@ -1,6 +1,9 @@
 # fs-clothing
 fs-clothing a Clothing Forder To Stream Clothing/eup In Fivem 
 
+```My Discord```
+- [Discord](https://discord.gg/6kJ5ubDEWE)
+
 Clothing Forder
 
 **Simple Drag And Drop**
